@@ -1,0 +1,62 @@
+td {
+  color: red;
+}
+i {
+  color: blueviolet;
+}
+h1 {
+  color: hsl(86, 88%, 3%);
+}
+.start-text {
+  color: navy;
+  text-decoration: none;
+}
+.start-text:hover {
+  cursor: pointer;
+}
+#VIP {
+  color: #fd0f0f;
+}
+
+#VIP:hover {
+  cursor: pointer;
+}
+
+.ТГ:hover {
+  color: gold;
+  text-decoration: underline;
+}
+.ТГ1 {
+  color: green;
+  text-decoration: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.ТГ2:visited {
+  text-decoration: line-through;
+  color: red;
+}
+input {
+  color: blue;
+}
+input:focus {
+  color: red;
+}
+.start-text:visited {
+  color: darkgreen;
+}
+input:read-only {
+  color: green;
+}
+
+body {
+  background: hsl(323, 67%, 83%);
+  background-image: url(../img/фон.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+table {
+  background-color: whitesmoke;
+}
